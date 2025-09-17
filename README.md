@@ -1,4 +1,4 @@
-# Snake Using Reinforced Learning
+# First Attempt At Snake Using Reinforced Learning
  My first attempt at teaching an agent to play snake when I was 15 years old, yes I know, its cheating :) 
  
  Attempt 2 coming soon...
